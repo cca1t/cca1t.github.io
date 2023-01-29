@@ -1,15 +1,14 @@
-<h1 align="center">hey i'm caitlyn ho</h1>
+<h1 align="center">hey i'm    caitlyn ho</h1>
 <h3 align="center">I'm an aspiring software engineer studying computer science at UC Davis.</h3>
 
 - phone: **909-815-1653**
 
 - email: **ccaitlynho@gmail.com**
 
-- fun fact: **I'm left handed!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/ccaitlynho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ccaitlynho/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ccaitlynho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ccaitlynho/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
